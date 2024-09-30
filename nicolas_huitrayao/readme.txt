@@ -2,7 +2,7 @@ Hola buenas soy Nicolás Huitrayao y esta es Noble Orfebrería.
 
 La página pesa demasiado (por alguna razón), por lo que tuve que eliminar muchos archivos que eran muy pesados, pero intenté dejar los más accesibles.
 
-Exporté la base de datos por separado, junto con el xml que me daba wordpress. Ya que la página era muy muy muy pesada, github no me deja subirlo en su completitud. Espero poder subir al drive todo lo que exporté con anterioridad.
+Exporté la base de datos por separado, junto con el xml que me daba wordpress. Ya que la página era muy muy muy pesada, github no me deja subirlo en su completitud. Espero poder subir al drive todo lo que exporté con anterioridad. (si lo logré muchas gracias)
 
 Los plugins que tiene mi página son:
 - All in One WP Migration.
